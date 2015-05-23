@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7B654277-F9B4-4974-8E50-AB17CD3FCA7E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>binary_search_tree</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>33299F278341C953AD055F78EC4EE397EE74C721</key>
+		<string>https://github.com/clkho87/github.git</string>
+		<key>33766DF4C3AA6C51B513BC93ECAB6B702899EF9A</key>
+		<string>https://github.com/clkho87/binary_search_tree.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>binary_search_tree.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>33299F278341C953AD055F78EC4EE397EE74C721</key>
+		<string>../../..</string>
+		<key>33766DF4C3AA6C51B513BC93ECAB6B702899EF9A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/clkho87/binary_search_tree.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>33766DF4C3AA6C51B513BC93ECAB6B702899EF9A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>33299F278341C953AD055F78EC4EE397EE74C721</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>33766DF4C3AA6C51B513BC93ECAB6B702899EF9A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>c++%20coding</string>
+		</dict>
+	</array>
+</dict>
+</plist>
