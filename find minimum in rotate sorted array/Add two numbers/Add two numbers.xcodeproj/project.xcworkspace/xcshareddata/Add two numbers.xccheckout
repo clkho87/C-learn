@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5C55C4BF-4303-4A43-B5BB-BA19982AEAB3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>33299F278341C953AD055F78EC4EE397EE74C721</key>
+		<string>https://github.com/clkho87/github.git</string>
+		<key>D8D46DABB639F1DE01094F055CDF99D5E72CCEFF</key>
+		<string>https://github.com/clkho87/C-learn.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>find minimum in rotate sorted array/Add two numbers/Add two numbers.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>33299F278341C953AD055F78EC4EE397EE74C721</key>
+		<string>../../../../..</string>
+		<key>D8D46DABB639F1DE01094F055CDF99D5E72CCEFF</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/clkho87/C-learn.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D8D46DABB639F1DE01094F055CDF99D5E72CCEFF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>33299F278341C953AD055F78EC4EE397EE74C721</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D8D46DABB639F1DE01094F055CDF99D5E72CCEFF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C++%20learn</string>
+		</dict>
+	</array>
+</dict>
+</plist>

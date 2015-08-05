@@ -14,6 +14,8 @@
 		<string>https://github.com/clkho87/github.git</string>
 		<key>33766DF4C3AA6C51B513BC93ECAB6B702899EF9A</key>
 		<string>https://github.com/clkho87/binary_search_tree.git</string>
+		<key>D8D46DABB639F1DE01094F055CDF99D5E72CCEFF</key>
+		<string>https://github.com/clkho87/C-learn.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>binary_search_tree.xcodeproj</string>
@@ -22,14 +24,16 @@
 		<key>33299F278341C953AD055F78EC4EE397EE74C721</key>
 		<string>../../..</string>
 		<key>33766DF4C3AA6C51B513BC93ECAB6B702899EF9A</key>
+		<string>../../../c++%20coding</string>
+		<key>D8D46DABB639F1DE01094F055CDF99D5E72CCEFF</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/clkho87/binary_search_tree.git</string>
+	<string>https://github.com/clkho87/C-learn.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>33766DF4C3AA6C51B513BC93ECAB6B702899EF9A</string>
+	<string>D8D46DABB639F1DE01094F055CDF99D5E72CCEFF</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -47,6 +51,14 @@
 			<string>33766DF4C3AA6C51B513BC93ECAB6B702899EF9A</string>
 			<key>IDESourceControlWCCName</key>
 			<string>c++%20coding</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D8D46DABB639F1DE01094F055CDF99D5E72CCEFF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C++%20learn</string>
 		</dict>
 	</array>
 </dict>

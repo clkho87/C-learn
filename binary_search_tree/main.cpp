@@ -76,5 +76,8 @@ int main(int argc, const char * argv[])
     std::cout<< "The Maximum depth of the tree is " << max << "\n";
     
     tree_link.~tree();
+    
+    
+    
     return 0;
 }
